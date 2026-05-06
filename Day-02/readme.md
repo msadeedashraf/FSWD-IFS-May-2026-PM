@@ -2,3 +2,4 @@
 ![](/Assets/use-case-2.png)
 ![](/Assets/python-javascript.png)
 ![](/Assets/use-case-3.png)
+![](/Assets/use-case-3-sol.png)
